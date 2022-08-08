@@ -8,7 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class TC01_Add_Skills4 {
+public class TC01_Add_Skills4
+ {
 	
 	static WebDriver driver;
 	
